@@ -1,0 +1,358 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Affects Version/s,Fix Version/s,Component/s,Due Date,Votes,Labels,Description,Environment,Watchers,Log Work,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Attachment,Attachment,Custom field ((backup) Browser/s),Custom field ((backup) Exists in the current implementation?),Custom field ((backup) External issue ID - old),Custom field ((backup) Integrator),Custom field ((backup) Issue Occurred On),Custom field ((backup) Issue Status Comment),Custom field ((backup) Platform),Custom field ((backup) Root of the problem),Custom field ((backup) Test Type),Custom field ((backup) Test case priority),Custom field ((backup) Type of Issue),Custom field ((backup) Work Type),"Custom field ((backup, del) Test tasks)","Custom field ((tmp, del) Build/s)","Custom field ((tmp, del?) TestCase Link)",Custom field (Account),Custom field (Actual Result),Custom field (Affected Test Cases),Custom field (Affects Build/s),Custom field (Asana link),Custom field (BT Jira ID),Custom field (BT Project),Custom field (Basecamp Link),Custom field (Billable Category),Custom field (Browser),Custom field (Browser / Environment),Custom field (Browser Version),Custom field (Build/s),Custom field (Business Unit),Custom field (CQ ID),Custom field (CS Project Coordinator),Custom field (Case Study necessity postpone date),Custom field (Client Device),Custom field (Client Device Version),Custom field (Cloud Version),Custom field (Core issue),Custom field (Created By),Custom field (Development),Custom field (End Date),Custom field (Epic Link),Custom field (Epic/Theme),Custom field (Error Type),Custom field (Expected Result),Custom field (Flagged),Custom field (Found by),Custom field (Functionality Changes?),Custom field (Handled By (SGW Tester)),Custom field (Hardware Version),Custom field (Impact),Custom field (Impacted Areas),Custom field (Importance),Custom field (Iteration),Custom field (Level),Custom field (New Original Estimate),Custom field (Next Step),Custom field (Number of candidates),Custom field (Occurrence),Custom field (Original story points),Custom field (Parent Link),Custom field (Partner Contact),Custom field (Payment Status),Custom field (Planned Efforts (FTE)),Custom field (Priority Level),Custom field (Proxy Required),Custom field (RFX Coordinator),Custom field (Rank),Custom field (Rank (Obsolete)),Custom field (Regional Coordinator),Custom field (Related Cases),Custom field (Reported Version),Custom field (Request Info From),Custom field (Revised),Custom field (Router),Custom field (SF Case No),Custom field (SGW Jira ID),Custom field (Severity/Importance),Custom field (Share with),Custom field (Solution),Sprint,Custom field (Start Date),Custom field (Supervisor),Custom field (TVS ID),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Team),Custom field (Team Role),Custom field (Test Type),Custom field (TestLink case),Custom field (Time Category),Custom field (To Attention Of),Custom field (Type of engagement),Custom field (URL),Custom field (Users),Custom field (Version To Fix),Custom field (WSJF),Custom field (Wiki Link),Custom field (Wires Link),Custom field (ZendeskID),Custom field (Обеспечение оборудованием),Comment
+Forkify ( Button ) : Add button is missing in the Add recipe page ,QATC-988420,3986760,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 12:59 PM,23/Apr/26 12:59 PM,05/May/26 4:34 PM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * look at the interface [^bug.png] 
+ * No add button
+
+Actual Result : 
+
+Add button is missing in the Add recipe page 
+
+Expected Result : 
+
+Should place a  add button for exted ingredients  ","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:58 PM;k.dip;bug.png;https://jira.a1qa.com/secure/attachment/2777078/bug.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmu8:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Button ) : Delete Button is missing in the page ,QATC-988414,3986754,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 12:56 PM,23/Apr/26 12:56 PM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * look at the interface . [^Bug_20.png]
+
+Actual Result:
+
+Delete Button is missing in the page 
+
+Expected Result : 
+
+Should place a Delete button for Delete the unwanted or wrong food","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:56 PM;k.dip;Bug_20.png;https://jira.a1qa.com/secure/attachment/2777072/Bug_20.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmsw:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Button ) : Edit Button is missing in the page ,QATC-988413,3986753,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Duplicate,,k.dip,k.dip,23/Apr/26 12:52 PM,24/Apr/26 4:27 PM,05/May/26 4:34 PM,24/Apr/26 4:27 PM,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * look at the interface [^Bug_12.png] 
+
+Actual Result : 
+
+Edit Button is missing in the page 
+
+Expected Result : 
+
+Should place a edit button for edit the missing or wrong information","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:51 PM;k.dip;Bug_12.png;https://jira.a1qa.com/secure/attachment/2777071/Bug_12.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmso:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Input field ) : Input field is taking Raw code ,QATC-988408,3986748,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Duplicate,,k.dip,k.dip,23/Apr/26 12:42 PM,24/Apr/26 4:30 PM,07/May/26 1:57 AM,24/Apr/26 4:30 PM,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click on the Add Recipe from nav-bar 
+ * Add Raw code in the Linkurl  input field 
+ * Update all the information 
+ * Press the update button 
+ * Input field is taking the Rawcode . [^Bug_19.png]
+
+{color:#de350b}*Actual Result :* {color}
+
+Input field is taking Raw code 
+
+{color:#de350b}*Expected Result :*{color} 
+
+Input field should not accept raw code ","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:42 PM;k.dip;Bug_19.png;https://jira.a1qa.com/secure/attachment/2777062/Bug_19.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmrk:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify (Input Field ) : Input Field is taking SQL Injection,QATC-988404,3986743,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Duplicate,,k.dip,k.dip,23/Apr/26 12:40 PM,24/Apr/26 4:27 PM,07/May/26 1:57 AM,24/Apr/26 4:27 PM,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click on the Add Recipe from nav-bar 
+ * Add SQL Injection in the Linkurl input field 
+ * Update all the information 
+ * Press the update button 
+ * Input field is taking the SQL injection  . [^Bug_18.png]
+
+{color:#de350b}*Actual Result :* {color}
+
+Input field is taking SQL injection
+
+{color:#de350b}*Expected Result :*{color} 
+
+Input field should not take SQL injection. 
+
+ 
+
+Additional Information : 
+
+All the input field can take SQL ijection except ingredients field","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:40 PM;k.dip;Bug_18.png;https://jira.a1qa.com/secure/attachment/2777058/Bug_18.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmqg:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Error Page ) : Showing Raw 404 Error page ,QATC-988401,3986739,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,FAD,,k.dip,k.dip,23/Apr/26 12:36 PM,24/Apr/26 4:28 PM,07/May/26 1:57 AM,24/Apr/26 4:28 PM,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) . 
+ * Open the Add recipe 
+ * Add a Script on the link field 
+ * Update all the input field . 
+ * Press the update button . 
+ * Direction button is taking the script on it . 
+ * Press the direction button 
+ * It will send to a 404 Error page [^Bug_17.png]
+
+Acutal Result : 
+
+Showing Raw 404 Error page 
+
+Excepted Result : 
+
+Should Show Custom 404 error page as a brand and as a good practices ","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:36 PM;k.dip;Bug_17.png;https://jira.a1qa.com/secure/attachment/2777055/Bug_17.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmpk:",9223372036854775807,,,,,,,,,5-Enhancement,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify (Input Field ) : Script code is visible on the Direction button .  ,QATC-988396,3986734,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 12:30 PM,23/Apr/26 12:30 PM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click on the Add Recipe from nav-bar 
+ * Add Script in the Linkurl  input field 
+ * Update all the information 
+ * Press the update button 
+ * Input field is taking the Script . 
+ * Look at the direction button . [^Bug_15.png]
+
+{color:#de350b}*Actual Result :* {color}
+
+ Script code is visible on the Direction button .  
+
+{color:#de350b}*Expected Result :*{color} 
+
+Input field should not take Script .","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:30 PM;k.dip;Bug_15.png;https://jira.a1qa.com/secure/attachment/2777050/Bug_15.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmog:",9223372036854775807,,,,,,,,,1-Critical,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Input field ) : Input field is taking Script ,QATC-988393,3986730,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 12:27 PM,23/Apr/26 12:27 PM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click on the Add Recipe from nav-bar 
+ * Add Script in the Linkurl  input field 
+ * Update all the information 
+ * Press the update button 
+ * Input field is taking the Script . [^Bug_15.png]
+
+{color:#de350b}*Actual Result :* {color}
+
+Input field is taking Script 
+
+{color:#de350b}*Expected Result :*{color} 
+
+Input field should not take Script .","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:27 PM;k.dip;Bug_15.png;https://jira.a1qa.com/secure/attachment/2777046/Bug_15.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmnk:",9223372036854775807,,,,,,,,,1-Critical,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Input field ) : Input field is taking Special Charecter ,QATC-988392,3986728,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 12:25 PM,23/Apr/26 12:25 PM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click on the Add Recipe from nav-bar 
+ * Add Special charecter in the Linkurl  input field 
+ * Update all the information 
+ * Press the update button 
+ * Input field is taking the special charecter . [^Bug_14.png]
+
+{color:#de350b}*Actual Result :* {color}
+
+Input field is taking Special Charecter 
+
+{color:#de350b}*Expected Result :*{color} 
+
+Input field can't take special Charecter except acceptable charecter ","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:24 PM;k.dip;Bug_14.png;https://jira.a1qa.com/secure/attachment/2777043/Bug_14.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmn4:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Title Input field ) : Title input field is taking one charecter,QATC-988388,3986724,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 12:22 PM,23/Apr/26 12:22 PM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click on the Add Recipe from nav-bar . 
+ * Add the single charecter in title input field 
+ * Put all the information in other field 
+ * Press the update button 
+ * look at the food page [^Bug_13.png]
+
+Acutal Result : 
+
+Title input field is taking one charecter 
+
+Expected Result : 
+
+Input Field should take minimum 2 charecter . ","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:20 PM;k.dip;Bug_13.png;https://jira.a1qa.com/secure/attachment/2777039/Bug_13.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmm8:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Image ) : Image of the food is not visible ,QATC-988385,3986720,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Cannot Reproduce,,k.dip,k.dip,23/Apr/26 12:16 PM,24/Apr/26 4:31 PM,07/May/26 1:57 AM,24/Apr/26 4:31 PM,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Open a food from bookmarks 
+ * Look at the food image . [^gui_12.png]
+
+Actual Result : 
+
+Image of the food is not visible 
+
+Expecte Result : 
+
+Image of the food should more visible ","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 12:16 PM;k.dip;gui_12.png;https://jira.a1qa.com/secure/attachment/2777035/gui_12.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmlc:",9223372036854775807,,,,,,,,,5-Enhancement,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify (Search option) : Can't find food using keyword ,QATC-988378,3986710,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 12:00 PM,23/Apr/26 12:00 PM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Place cursor on the search bar . 
+ * Use Keyword of the food . [^Bug_9.mp4]
+
+{color:#de350b}*Actual Result :* {color}
+
+Can't find food using keyword .
+
+{color:#de350b}*Expected Result :*{color} 
+
+Should find food using keyword .","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 11:56 AM;k.dip;Bug_9.mp4;https://jira.a1qa.com/secure/attachment/2777017/Bug_9.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmj4:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Add Recipe input field ) : All the input field looks not same when filedup ,QATC-988375,3986707,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,FAD,,k.dip,k.dip,23/Apr/26 11:50 AM,24/Apr/26 4:33 PM,07/May/26 1:57 AM,24/Apr/26 4:33 PM,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click on the Add Recipe from nav-bar 
+ * Filled up all the input field with Ingridents 
+ * look at the ingrients [^BUI_08.png] .
+
+{color:#de350b}*Actual Result :* {color}
+
+All the input field looks not same when filedup ingredients .
+
+ 
+
+{color:#de350b}*Expected Result :*{color} 
+
+All input field should looks same when filedup ingredients .
+
+ ","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 11:48 AM;k.dip;BUI_08.png;https://jira.a1qa.com/secure/attachment/2777014/BUI_08.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmig:",9223372036854775807,,,,,,,,,5-Enhancement,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Information Missing ) : Informations are not showing in the Recipe ingredients .,QATC-988370,3986694,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Incomplete,,k.dip,k.dip,23/Apr/26 11:28 AM,24/Apr/26 4:33 PM,07/May/26 1:57 AM,24/Apr/26 4:33 PM,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Open a food from bookmarks .
+ * Look at the recipe ingredients [^bug_07.png]
+
+{color:#de350b}*Actual Result :* {color}
+
+Informations are not showing in the Recipe ingredients .
+
+ 
+
+{color:#de350b}*Expected Result :*{color} 
+
+Should show all the information .","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 11:28 AM;k.dip;Bug_07.png;https://jira.a1qa.com/secure/attachment/2776999/Bug_07.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmfk:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Serving Stepper Control ) : 'Minutes' spellings is changing when increment or decrement in Serving by stepper control.,QATC-988367,3986691,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 11:21 AM,23/Apr/26 11:21 AM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Open a Recipe from bookmarks
+ * Changing the serving number by stepper control .
+ * Stepper control is changing servings value with minute spelling . [^Bug_5.mp4]
+
+{color:#de350b}*Actual Result :* {color}
+
+Minutes spellings is changing when increment or decrement in Serving by stepper control.
+
+ 
+
+{color:#de350b}*Expected Result :*{color} 
+
+Stepper control should change servings value not other functionality or GUI","{color:#de350b}*OS :*{color} Windows 11 Pro ( 64 bit ) 
+
+{color:#de350b}*Browser :*{color}
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 11:21 AM;k.dip;Bug_5.mp4;https://jira.a1qa.com/secure/attachment/2776995/Bug_5.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmew:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Search Option ) : Loading infinite times when search without data ,QATC-988360,3986684,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 11:01 AM,23/Apr/26 11:01 AM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click the Seach button without data . [^Bug_4.mp4]
+
+{color:#de350b}*Actual Result :* {color}
+
+ Loading infinite times when search without data 
+
+ 
+
+{color:#de350b}*Expected Result :*{color} 
+
+Should show all relevent food  or  should stop loading ","OS : Windows 11 Pro ( 64 bit ) 
+
+Browser :
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 11:00 AM;k.dip;Bug_4.mp4;https://jira.a1qa.com/secure/attachment/2776986/Bug_4.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmdc:",9223372036854775807,,,,,,,,,2-Major,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Add recipe ) : Without reload can't add another recipe after one successful attempt ,QATC-988353,3986677,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 10:51 AM,23/Apr/26 10:51 AM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click on the Add Recipe from nav-bar 
+ * Fill up all the input field with valid data . 
+ * Click Upload button .
+ * Showing Successful  popup window . 
+ * Again Press Add Recipe for add new one . 
+ * Showing Successful  popup window . [^Bug_3.mp4]
+
+{color:#de350b}*Actual Result :* {color}
+
+Without reload can't add another recipe after one successful attempt 
+
+ 
+
+{color:#de350b}*Expected Result :*{color} 
+
+Add recipe link styled button  should redirect to add recipe pop up window  .","OS : Windows 11 Pro ( 64 bit ) 
+
+Browser :
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 10:51 AM;k.dip;Bug_3.mp4;https://jira.a1qa.com/secure/attachment/2776983/Bug_3.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmbs:",9223372036854775807,,,,,,,,,1-Critical,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Spelling Mistake ) : Minutes Spelling is wrong in food page .,QATC-988350,3986674,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Duplicate,,k.dip,k.dip,23/Apr/26 10:48 AM,24/Apr/26 4:34 PM,07/May/26 1:57 AM,24/Apr/26 4:34 PM,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Open saved food from bookmarks 
+ * Look at the Time for recipe [^Bug_2.png]
+
+{color:#de350b}*Actual Result :* {color}
+
+Minutes Spelling is wrong in food page .
+
+ 
+
+{color:#de350b}*Expected Result :*{color} 
+
+Spelling Should be ' MINUTES '","OS : Windows 11 Pro ( 64 bit ) 
+
+Browser :
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 10:43 AM;k.dip;Bug_2.png;https://jira.a1qa.com/secure/attachment/2776979/Bug_2.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,,,"0|iftmb4:",9223372036854775807,,,,,,,,,5-Enhancement,,,,,,,,,,,,,,,,,,,,0.0,,,,,
+Forkify ( Add recipe ) : Without reload can't add another recipe after one wrong attempt ,QATC-988342,3986666,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,k.dip,k.dip,23/Apr/26 10:30 AM,23/Apr/26 10:30 AM,07/May/26 1:57 AM,,1.0,,Forkify,,0,,"{color:#de350b}*Steps :*{color} 
+ * Open the Web application ( [https://forkify.qa-academy.eu/#428604.56356479914] ) 
+ * Click on the Add Recipe from nav-bar 
+ * Create a wrong attept by putting wrong value in the ingredient input field . 
+ * Click Upload button .
+ * Showing Wrong request popup window . 
+ * Again Press Add Recipe for add new one . 
+ * Showning Wrong request popup window again. [^Bug_1.mp4]
+
+{color:#de350b}*Actual Result :* {color}
+
+Without reload can't add another recipe after one wrong attempt 
+
+ 
+
+{color:#de350b}*Expected Result :*{color} 
+
+Add recipe link styled button  should redirect to add recipe pop up window  .","*OS :* Windows 11 Pro ( 64 bit ) 
+
+*Browser :*
+Chrome is up to date
+Version 147.0.7727.117 (Official Build) (64-bit)",,,,,,,,,,Leads and Reporter only,"23/Apr/26 10:30 AM;k.dip;basic.png;https://jira.a1qa.com/secure/attachment/2776972/basic.png","23/Apr/26 10:25 AM;k.dip;Bug_1.mp4;https://jira.a1qa.com/secure/attachment/2776973/Bug_1.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,,,"0|iftm9c:",9223372036854775807,,,,,,,,,1-Critical,,,,,,,,,,,,,,,,,,,,0.0,,,,,
